@@ -1,6 +1,15 @@
 # The canonical out-of-tree build subdirectory
 build
 
+**/bin/
+**/bin-int/
+
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
